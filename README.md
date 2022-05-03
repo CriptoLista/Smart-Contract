@@ -11,7 +11,7 @@ En caso de exceder el límite de GAS del tamaño de la transacción, el retiro n
 Nota:
 
 Este comentario es relevante solo si un usuario crea una cantidad excesiva de depósitos paralelos (más de 100).
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 Descripción independiente de la funcionalidad del contrato inteligente
